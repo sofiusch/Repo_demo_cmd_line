@@ -1,5 +1,17 @@
+###Git Commands
+
 change repository --> cd <name of the directory you want to change to>
-create a new file --> notepad <test.txt>
-To view the content of the file --> type <file name> 
+download git repository to local Folder --> 
+	cd Downloads
+	git clone <pastesshrepositorylinkhere>
+dd changes to Git repository -->
+	git add <name File>
+	git status
+	git commit -m "description changes"
+	git push
+
+create a new file --> notepad <file_Name.txt>
+To view the content of the file --> type <file_Name.txt> 
+Add to the repository --> git add <file_Name.txt>
 create a new directory --> mkdir <newFolder>
 delete a directory --> rm -r <directoryName>
