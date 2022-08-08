@@ -1,0 +1,5 @@
+change repository --> cd <name of the directory you want to change to>
+create a new file --> notepad <test.txt>
+To view the content of the file --> type <file name> 
+create a new directory --> mkdir <newFolder>
+delete a directory --> rm -r <directoryName>
